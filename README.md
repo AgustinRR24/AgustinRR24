@@ -15,11 +15,9 @@
 
  🌱 I’m currently learning **React.js**
 
- 💬 Ask me about **Node.js, MongoDB, PHP, MySQL**
+ 💬 Ask me about **Node.js, MongoDB, MySQL**
 
- 📫 Reach out to me: ****
-
- ✍ You can find my resume [here]()
+ 📫 Reach out to me: **agustinruizramoha@gmail.com**
 
  ⚡ Fun fact: **My first line of code was not "Hello World!"**
 
