@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on [My portfolio website]()<br><br> 🌱 I’m currently learning **React.js**<br><br> 💬 Ask me about **Node.js, JavaScript, SQL SERVER**<br><br> 📫 Reach out to me: **agustinruizramoha@gmail.com**<br><br> ⚡ Fun fact: **My first line of code was not "Hello World!"**
+ 🔭 I’m currently working on [My portfolio website]()<br><br> 🌱 I’m currently learning **React.js**<br><br> 💬 Ask me about **PHP, LARAVEL, MYSQL**<br><br> 📫 Reach out to me: **agustinruizramoha@gmail.com**<br><br> ⚡ Fun fact: **My first line of code was not "Hello World!"**
 
 
 ## 🌐 Socials:
