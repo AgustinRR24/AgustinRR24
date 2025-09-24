@@ -16,13 +16,6 @@ Me encanta aprender nuevas tecnologías, trabajar en proyectos desafiantes y apo
 
 ---
 
-## 🌐 Conecta conmigo  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tinruiz._)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustinruizramoha@gmail.com)  
-
----
-
 ## 💻 Tech Stack  
 **Lenguajes & Frameworks**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
@@ -50,11 +43,10 @@ Me encanta aprender nuevas tecnologías, trabajar en proyectos desafiantes y apo
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
 
 ---
-
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=tincho241&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=tincho241&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tincho241&theme=tokyonight&hide_border=false&layout=compact)  
+  
+## 🌐 Conecta conmigo  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://instagram.com/tinruiz._](https://www.instagram.com/agustinruiz24._/))  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustinruizramoha@gmail.com)  
 
 ---
 
