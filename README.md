@@ -10,7 +10,7 @@ Me encanta aprender nuevas tecnologías, trabajar en proyectos desafiantes y apo
 ## 💫 Sobre mí  
 - 🔭 Actualmente trabajando en: **Mi portafolio web**  
 - 🌱 Aprendiendo: **React.js & Node.js**  
-- 💬 Pregúntame sobre: **PHP, Laravel, MySQL, SQL Server**  
+- 💬 Pregúntame sobre: **PHP, Laravel, Filament, MySQL, SQL Server**  
 - 📫 Contacto: **agustinruizramoha@gmail.com**  
 - ⚡ Dato curioso: *Mi primera línea de código no fue "Hello World!"* 😅  
 
@@ -21,6 +21,7 @@ Me encanta aprender nuevas tecnologías, trabajar en proyectos desafiantes y apo
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
+![Filament](https://img.shields.io/badge/Filament-4A154B.svg?style=for-the-badge&logo=laravel&logoColor=white)  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
@@ -45,7 +46,7 @@ Me encanta aprender nuevas tecnologías, trabajar en proyectos desafiantes y apo
 ---
   
 ## 🌐 Conecta conmigo  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://instagram.com/tinruiz._](https://www.instagram.com/agustinruiz24._/))  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/agustinruiz24._/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustinruizramoha@gmail.com)  
 
 ---
